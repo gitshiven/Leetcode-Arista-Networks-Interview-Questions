@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Restore IP Addresses (visited),100.0,0.5315843132324689,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
 MEDIUM,Construct String With Repeat Limit (visted),100.0,0.7087761359183014,https://leetcode.com/problems/construct-string-with-repeat-limit,"Hash Table, String, Greedy, Heap (Priority Queue), Counting"
-EASY,Find the Town Judge (visited) 9,97.6,0.500057919960555,https://leetcode.com/problems/find-the-town-judge,"Array, Hash Table, Graph"
+EASY,Find the Town Judge (visited),97.6,0.500057919960555,https://leetcode.com/problems/find-the-town-judge,"Array, Hash Table, Graph"
 HARD,Reverse Nodes in k-Group,94.9,0.6304370910860896,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
 MEDIUM,Reverse Linked List II (vistited),94.9,0.4959178278493805,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
 MEDIUM,Reorder List,88.6,0.6250484291087256,https://leetcode.com/problems/reorder-list,"Linked List, Two Pointers, Stack, Recursion"
