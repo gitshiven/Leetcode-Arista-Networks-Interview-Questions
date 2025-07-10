@@ -4,7 +4,7 @@ MEDIUM,Construct String With Repeat Limit (visted),100.0,0.7087761359183014,http
 EASY,Find the Town Judge (visited),97.6,0.500057919960555,https://leetcode.com/problems/find-the-town-judge,"Array, Hash Table, Graph"
 HARD,Reverse Nodes in k-Group,94.9,0.6304370910860896,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
 MEDIUM,Reverse Linked List II (vistited),94.9,0.4959178278493805,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-MEDIUM,Reorder List,88.6,0.6250484291087256,https://leetcode.com/problems/reorder-list,"Linked List, Two Pointers, Stack, Recursion"
+MEDIUM,Reorder List(visited),88.6,0.6250484291087256,https://leetcode.com/problems/reorder-list,"Linked List, Two Pointers, Stack, Recursion"
 EASY,Contains Duplicate II,80.2,0.49050065100683116,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
 MEDIUM,Inorder Successor in BST II,80.2,0.6100172051233034,https://leetcode.com/problems/inorder-successor-in-bst-ii,"Tree, Binary Search Tree, Binary Tree"
 MEDIUM,Rotated Digits,80.2,0.5642771951080989,https://leetcode.com/problems/rotated-digits,"Math, Dynamic Programming"
